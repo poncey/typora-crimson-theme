@@ -4,7 +4,7 @@ A crimson typora theme, currently this is just a slight modification of the [typ
 
 ## Example
 
-![example](D:\Examples\typora-crimson-theme\Screenshots/crimson.png)
+![example](./Screenshots/crimson.png)
 
 ## Fonts
 
